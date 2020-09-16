@@ -1,0 +1,1 @@
+If I were to add one thing to Java it would be Racket records. The simplicity of them could dramatically shorten code and save me many headaches from inheritance, methods, classes, etc.
